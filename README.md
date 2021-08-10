@@ -11,9 +11,8 @@ We also describe benchmark results through named entity recognition and relation
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
+|테스트1|테스트3|
 |테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|------|---|---|
 |테스트1|테스트2|테스트3|
 
 ## Architecture
