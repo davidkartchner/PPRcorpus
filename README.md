@@ -7,20 +7,14 @@ While the natural language processing (NLP) technique aims to extract useful inf
 Therefore, we present the Plant-Phenotype Relationship (PPR) corpus, a high-quality resource to support the development of various NLP fields, which consists of 600 PubMed abstracts corresponding to 5668 plant and 11,282 phenotype entities, and a total of 9709 relationships.
 We also describe benchmark results through named entity recognition and relation extraction systems to verify our data quality and show the significant performance of NLP tasks in the PPR test set.
 
-## Statistics
-| First Header  | Second Header | Third Header         |
-| :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
-
 ## Architecture
 ![fig1_pipeline](https://user-images.githubusercontent.com/88476469/128833926-4ee3e812-e3cb-4af4-a56a-88ccaa1201f8.png)
 
+## Statistics
+![Template_for_Data_Descriptor_submissions_to_Scientific_Data 11](https://user-images.githubusercontent.com/88476469/128834961-5281c3da-b44e-43ae-9f47-558360151ee0.png)
 
 ## Example
 ![fig2_example](https://user-images.githubusercontent.com/88476469/128834003-b1ecf1b5-0820-48b4-8f87-e1ecc7dc72ab.png)
-
 
 ## Contact
 Corresponding author: Hyunju Lee (hyunjulee@gist.ac.kr)
