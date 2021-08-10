@@ -12,6 +12,7 @@ We also describe benchmark results through named entity recognition and relation
 
 
 ## Example
+![fig2_example](https://user-images.githubusercontent.com/88476469/128834003-b1ecf1b5-0820-48b4-8f87-e1ecc7dc72ab.png)
 
 
 ## Contact
