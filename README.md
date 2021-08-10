@@ -13,6 +13,9 @@ We also describe benchmark results through named entity recognition and relation
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
+|------|---|---|
+|------|---|---|
+|테스트1|테스트2|테스트3|
 
 ## Architecture
 ![fig1_pipeline](https://user-images.githubusercontent.com/88476469/128833926-4ee3e812-e3cb-4af4-a56a-88ccaa1201f8.png)
