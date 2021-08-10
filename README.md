@@ -8,6 +8,7 @@ Therefore, we present the Plant-Phenotype Relationship (PPR) corpus, a high-qual
 We also describe benchmark results through named entity recognition and relation extraction systems to verify our data quality and show the significant performance of NLP tasks in the PPR test set.
 
 ## Architecture
+![fig1_pipeline](https://user-images.githubusercontent.com/88476469/128833926-4ee3e812-e3cb-4af4-a56a-88ccaa1201f8.png)
 
 
 ## Example
