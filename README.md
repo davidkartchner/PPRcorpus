@@ -14,7 +14,7 @@ We also describe benchmark results through named entity recognition and relation
 ![Template_for_Data_Descriptor_submissions_to_Scientific_Data 11](https://user-images.githubusercontent.com/88476469/128834961-5281c3da-b44e-43ae-9f47-558360151ee0.png)
 
 ## Example
-![fig2_example](https://user-images.githubusercontent.com/88476469/128834003-b1ecf1b5-0820-48b4-8f87-e1ecc7dc72ab.png)
+![fig2_example](https://user-images.githubusercontent.com/88476469/128950852-b223755f-89f6-45e4-8668-80ca35fa677f.png)
 
 ## Contact
 Corresponding author: Hyunju Lee (hyunjulee@gist.ac.kr)
