@@ -15,7 +15,7 @@ python run_ner.py \
     --num_train_epochs=5.0 \
     --data_dir=$NER_DIR/ \
     --output_dir=/tmp/ner_output/
-
+```
 Note that this result is the token-level evaluation measure while the official evaluation should use the entity-level evaluation measure. 
 The results of `python run_ner.py` will be recorded as two files: `token_test.txt` and `label_test.txt` in `output_dir`. 
 Use `ner_detokenize.py` in `./biocodes/` to obtain word level prediction file.
