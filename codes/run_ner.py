@@ -195,7 +195,7 @@ class NerProcessor(DataProcessor):
 
 
     def get_labels(self):
-        return ["B", "I", "O", "X", "[CLS]", "[SEP]"] 
+        return ["B-PLT", "I-PLT", "B-POS", "I-POS", "B-NEG", "I-NEG", "B-NEU", "I-NEU", "O", "X", "[CLS]", "[SEP]"] 
 
     def _create_example(self, lines, set_type):
         examples = []
@@ -378,7 +378,7 @@ def create_model(bert_config, is_training, input_ids, input_mask,
         output_layer = tf.reshape(output_layer, [-1, hidden_size])
         logits = tf.matmul(output_layer, output_weight, transpose_b=True)
         logits = tf.nn.bias_add(logits, output_bias)
-        logits = tf.reshape(logits, [-1, FLAGS.max_seq_length, 7])
+        logits = tf.reshape(logits, [-1, FLAGS.max_seq_length, 13])
         # mask = tf.cast(input_mask,tf.float32)
         # loss = tf.contrib.seq2seq.sequence_loss(logits,labels,mask)
         # return (loss, logits, predict)
@@ -441,9 +441,9 @@ def model_fn_builder(bert_config, num_labels, init_checkpoint, learning_rate,
             def metric_fn(per_example_loss, label_ids, logits):
             # def metric_fn(label_ids, logits):
                 predictions = tf.argmax(logits, axis=-1, output_type=tf.int32)
-                precision = tf_metrics.precision(label_ids,predictions,7,[1,2],average="macro")
-                recall = tf_metrics.recall(label_ids,predictions,7,[1,2],average="macro")
-                f = tf_metrics.f1(label_ids,predictions,7,[1,2],average="macro")
+                precision = tf_metrics.precision(label_ids,predictions,13,[1,2,3,4,5,6,7,8],average="macro")
+                recall = tf_metrics.recall(label_ids,predictions,13,[1,2,3,4,5,6,7,8],average="macro")
+                f = tf_metrics.f1(label_ids,predictions,13,[1,2,3,4,5,6,7,8],average="macro")
                 #
                 return {
                     "eval_precision":precision,
