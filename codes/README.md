@@ -57,5 +57,4 @@ python ./biocodes/re_eval.py --output_path={output_dir}/test_results.tsv --answe
 
 
 ## License
-Please see LICENSE file for details. Downloading data indicates your acceptance of our disclaimer.
-
+These codes are modified by Google_BERT codes. Please see LICENSE file for details.
