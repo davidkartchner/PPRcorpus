@@ -3219,7 +3219,6 @@
 
 24548119_6	Moreover, BE administration markedly suppressed the increase of liver mRNA levels of iNOS, TNF-a, IL-1b and IL-6, and the protein levels of iNOS, TNF-a and NF-kB.
 24548119	10	12	BE	Plant
-
 24548119_7	In addition, liver malondialdehyde and NO contents were significantly reduced by BE treatment.
 24548119	81	83	BE	Plant
 
