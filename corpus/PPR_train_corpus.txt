@@ -1970,7 +1970,7 @@
 11819701	11	13	BR	Plant
 11819701	66	92	preneoplastic hepatic foci	Negative_phenotype
 11819701	124	145	hepato-carcinogenesis	Negative_phenotype
-11819701	Decrease	11	13	BR	Plant	63	89	preneoplastic hepatic foci	Negative_phenotype
+11819701	Decrease	11	13	BR	Plant	66	92	preneoplastic hepatic foci	Negative_phenotype
 11819701	Decrease	11	13	BR	Plant	124	145	hepato-carcinogenesis	Negative_phenotype
 
 11819701_9	Both CH(2)Cl(2) and H(2)O extracts from BR exerted anti-inflammatory effect in rats and mice.
