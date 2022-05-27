@@ -1086,7 +1086,6 @@
 15975050	23	49	Gardenia jasminoides Ellis	Plant
 15975050	81	113	liver and gall bladder disorders	Negative_phenotype
 15975050	Decrease	0	8	Gardenia	Plant	81	113	liver and gall bladder disorders	Negative_phenotype
-15975050	Decrease	0	8	Gardenia	Plant	91	113	gall bladder disorders	Negative_phenotype
 15975050	Decrease	23	49	Gardenia jasminoides Ellis	Plant	81	113	liver and gall bladder disorders	Negative_phenotype
 
 15975050_3	It has been shown recently that geniposide, the main ingredient of Gardenia Fructus, exhibits the anti-tumor effect.
@@ -3229,7 +3228,6 @@
 24548119	65	101	acute and immunological inflammation	Negative_phenotype
 24548119	146	163	anti-inflammatory	Positive_phenotype
 24548119	Decrease	29	31	BE	Plant	65	101	acute and immunological inflammation	Negative_phenotype
-24548119	Decrease	29	31	BE	Plant	75	101	immunological inflammation	Negative_phenotype
 24548119	Increase	29	31	BE	Plant	146	163	anti-inflammatory	Positive_phenotype
 
 24624888_1	Artemisia capillaris inhibits atopic dermatitis-like skin lesions in Dermatophagoides farinae-sensitized Nc/Nga mice.
