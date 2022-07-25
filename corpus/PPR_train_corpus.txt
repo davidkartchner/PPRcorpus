@@ -1970,8 +1970,8 @@
 11819701	11	13	BR	Plant
 11819701	66	92	preneoplastic hepatic foci	Negative_phenotype
 11819701	124	145	hepato-carcinogenesis	Negative_phenotype
-11819701	Decrease	8	10	BR	Plant	63	89	preneoplastic hepatic foci	Negative_phenotype
-11819701	Decrease	8	10	BR	Plant	124	145	hepato-carcinogenesis	Negative_phenotype
+11819701	Decrease	11	13	BR	Plant	66	92	preneoplastic hepatic foci	Negative_phenotype
+11819701	Decrease	11	13	BR	Plant	124	145	hepato-carcinogenesis	Negative_phenotype
 
 11819701_9	Both CH(2)Cl(2) and H(2)O extracts from BR exerted anti-inflammatory effect in rats and mice.
 11819701	40	42	BR	Plant
@@ -6102,8 +6102,8 @@
 16306813	Decrease	35	50	Punica granatum	Plant	310	325	type 2 diabetes	Negative_phenotype
 16306813	Decrease	35	50	Punica granatum	Plant	330	337	obesity	Negative_phenotype
 16306813	Increase	59	62	PGF	Plant	73	86	anti-diabetic	Positive_phenotype
-16306813	Decrease	59	62	PGF	Plant	201	266	hyperglycemia, hyperlipidemia, and fatty heart in Zucker diabetic	Negative_phenotype
-16306813	Decrease	59	62	PGF	Plant	216	266	hyperlipidemia, and fatty heart in Zucker diabetic	Negative_phenotype
+16306813	Decrease	59	62	PGF	Plant	201	214	hyperglycemia	Negative_phenotype
+16306813	Decrease	59	62	PGF	Plant	216	230	hyperlipidemia	Negative_phenotype
 16306813	Decrease	59	62	PGF	Plant	236	266	fatty heart in Zucker diabetic	Negative_phenotype
 16306813	Decrease	59	62	PGF	Plant	274	277	ZDF	Negative_phenotype
 16306813	Decrease	59	62	PGF	Plant	310	325	type 2 diabetes	Negative_phenotype
@@ -7164,7 +7164,6 @@
 16806112	34	41	Danggui	Plant
 16806112	77	120	cardiovascular and cerebrovascular diseases	Negative_phenotype
 16806112	Decrease	6	23	Angelica sinensis	Plant	77	120	cardiovascular and cerebrovascular diseases	Negative_phenotype
-16806112	Decrease	6	23	Angelica sinensis	Plant	96	120	cerebrovascular diseases	Negative_phenotype
 16806112	Decrease	34	41	Danggui	Plant	77	120	cardiovascular and cerebrovascular diseases	Negative_phenotype
 
 16806112_3	Modern phytochemical studies showed that Z-ligustilide (LIG) is the main lipophilic component of Danggui.
